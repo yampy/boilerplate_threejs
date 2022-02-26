@@ -21,4 +21,4 @@ npm run deploy
 ```
 
 ## URL
-[Guthub Page](https://yampy.github.io/boilerplate_threejs/)
+[Guthub Page](https://yampy.github.io/threejs-boilerplate/)
