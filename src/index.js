@@ -4,7 +4,7 @@ import 'normalize.css';
 // Setup Renderer 
 const renderer = new THREE.WebGLRenderer({antialias: true});
 renderer.setSize(window.innerWidth, window.innerHeight);
-document.querySelector('.webGLContainer').appendChild(renderer.domElement);
+document.getElementById('webGLContainer').appendChild(renderer.domElement);
 
 const scene = new THREE.Scene();
 
