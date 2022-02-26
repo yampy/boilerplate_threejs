@@ -1,4 +1,5 @@
 import * as THREE from 'three';
+import 'normalize.css';
 
 // Setup Renderer 
 const renderer = new THREE.WebGLRenderer({antialias: true});
