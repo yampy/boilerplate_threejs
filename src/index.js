@@ -1,4 +1,3 @@
-import { hello } from './hello';
 import * as THREE from 'three';
 
 // Setup Renderer 
