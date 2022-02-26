@@ -14,3 +14,11 @@ npm run build
 ```
 npm start
 ```
+
+## Deploy 
+```
+npm deploy
+```
+
+## URL
+[Guthub Page](https://yampy.github.io/boilerplate_threejs/)
